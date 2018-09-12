@@ -1,7 +1,7 @@
 //Problem Solving With C++ - Walter Savitch
 //Chapter 5
 //Programming Project #1
-//This program will search a file of numbers of type int and writes the largest 
+//This program will search a file of numbers of type int and write the largest 
 //and smallest numbers to the screen.
 
 #include <iostream>
